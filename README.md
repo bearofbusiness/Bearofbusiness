@@ -6,6 +6,6 @@
 
 ## Skills + tools I like to use:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,c,cs,docker,express,java,linux,mysql,nodejs,ps,py,react,tensorflow,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,cpp,c,cs,express,java,linux,sqlite,nodejs,ps,py,react,tensorflow,unity)](https://skillicons.dev)
 
 
