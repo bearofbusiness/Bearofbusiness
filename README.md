@@ -2,7 +2,7 @@
 ## **I'm Bearofbusines** <img src="https://komarev.com/ghpvc/?username=Bearofbusines&color=15171a">
 
 
-#### My favorite thing to do right now is work with machine python of a micro computer, and experimenting with different technologies and frameworks, and learning along the way.
+#### My favorite thing to do right now is work with microcontrollers, and experiment with different technologies and frameworks.
 
 ## Skills + tools I like to use:
 
