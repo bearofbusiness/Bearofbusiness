@@ -8,4 +8,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,arduino,bash,cpp,c,cs,java,linux,sqlite,nodejs,py,react,unity)](https://skillicons.dev)
 
-
+## Stats
+![My Skills](https://github-readme-stats.vercel.app/api?username=bearofbusiness&count_private=true&show_icons=true&theme=dark)
+![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=bearofbusiness&layout=compact&theme=dark)
