@@ -1,5 +1,5 @@
 # Hey there! 👋
-## **I'm Bearofbusines** <img src="https://komarev.com/ghpvc/?username=Bearofbusines&color=15171a">
+## **I'm Bearofbusiness** <img src="https://komarev.com/ghpvc/?username=Bearofbusiness&color=15171a">
 
 
 #### My favorite thing to do right now is work with microcontrollers, and experiment with different technologies and frameworks.
