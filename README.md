@@ -4,7 +4,7 @@
 
 #### My favorite thing to do right now is work with microcontrollers, and experiment with different technologies and frameworks.
 
-## Skills + tools I like to use and i am also learning:
+## Skills + tools I like to use and I am also learning:
 
 [![My Skills](https://skillicons.dev/icons?i=nix,arch,zig,arduino,bash,cpp,c,cs,java,linux,sqlite,py,react,unity)](https://skillicons.dev)
 
