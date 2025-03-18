@@ -6,7 +6,7 @@
 
 ## Skills + tools I like to use and I am also learning:
 
-[![My Skills](https://skillicons.dev/icons?i=nix,arch,zig,arduino,bash,cpp,c,cs,java,linux,sqlite,py,react,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,arch,zig,arduino,bash,c,cs,java,linux,sqlite,py,unity)](https://skillicons.dev)
 
 ## Stats
 ![My Skills](https://github-readme-stats.vercel.app/api?username=bearofbusiness&count_private=true&show_icons=true&theme=dark)
