@@ -13,5 +13,5 @@
 ![My Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=bearofbusiness&layout=compact&theme=dark)-->
 
 
-## You can find my at
+## You can find me at
 @bearofbusiness on discord or email dev@bearof.business
